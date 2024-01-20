@@ -15,7 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: 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
-          USERNAME: mingxinh0607
+          USERNAME: mingxin0607
       - name: Commit & Push
         run: |
           git config user.name github-actions
