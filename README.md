@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mingxin0607/mingxin0607/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
 
 </div>
@@ -16,10 +16,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 - I'm Mingxin, current master student of Software Engineering at UC Irvine.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mingxin-hou0607/) | [Email](mailto:houmx0607@outlook.com)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mingxin0607&show_icons=true&theme=tokyonight" /> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=J1aM1ng&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingxin0607&layout=compact&theme=tokyonight&langs_count=10" />
+<div align="center">  
+  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mingxin0607&show_icons=true&theme=tokyonight" />  -->
+
+  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingxin0607&layout=compact&theme=tokyonight&langs_count=10" /> -->
 </div>
 
 ## General Skills
@@ -74,7 +78,5 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <!-- activity graph -->
 
 <!-- Award -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=J1aM1ng&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
