@@ -50,7 +50,7 @@
 
 ![MySQL](https://img.shields.io/badge/-mysql-007ACC?style=flat-square&logo=mysql&labelColor=0D1117)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![PostgreSQL Badge](https://img.shields.io/badge/MongoDB-47A248?logo=postgresql&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-47A248?logo=postgresql&logoColor=fff&style=flat)
 
 ![Docker](https://img.shields.io/badge/-Docker-%23282C34?&logo=Docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23282C34?&logo=nginx)
