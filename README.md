@@ -13,11 +13,12 @@
 
 
 #  :cat: Hello
+
 - I'm Mingxin, current master student of Software Engineering at UC Irvine.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mingxin-hou0607/) | [Email](mailto:houmx0607@outlook.com)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=J1aM1ng&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=J1aM1ng&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> -->
 </p>
 
 <div align="center">  
