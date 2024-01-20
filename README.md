@@ -1,17 +1,24 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mingxin0607/mingxin0607/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mingxin0607/mingxin0607/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mingxin0607/mingxin0607/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 </div>
 
 
-#  🙋 Hello
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mingxin-hou0607/) | [Email](houmx0607@outlook.com)
+#  :cat: Hello
+- I'm Mingxin, current master student of Software Engineering at UC Irvine.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mingxin-hou0607/) | [Email](mailto:houmx0607@outlook.com)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mingxin0607&show_icons=true&theme=tokyonight" /> 
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingxin0607&layout=compact&theme=tokyonight&langs_count=10" />
 </div>
 
@@ -27,7 +34,7 @@
 ## Backend Skills
 ![Java](https://img.shields.io/badge/-Java-%232c3e50?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-%232c3e50?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-csharp-%232c3e50?style=flat-square&logo=csharp&logoColor=%232E8B57&labelColor=0D1117)
+<!-- ![C#](https://img.shields.io/badge/-csharp-%232c3e50?style=flat-square&logo=csharp&logoColor=%232E8B57&labelColor=0D1117) -->
 ![Python](https://img.shields.io/badge/-python-%23F7DF1C?style=flat-square&logo=python&labelColor=0D1117)
 ![Golang](https://img.shields.io/badge/-Golang-%232c3e50?style=flat-square&logo=go)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%232E8B57?style=flat-square&logo=nodedotjs&labelColor=0D1117)
@@ -70,70 +77,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=J1aM1ng&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
-<!-- 
-<table>
-  
-<tr><td>
-
-### 🤺 About Me
-
-
-</td></tr>
-
-
-<tr><td>
-  
-### 🏢 Work Experience
-
-
-</td></tr> -->
-
-<!-- <tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mingxin0607&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mingxin0607&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mingxin0607&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr> -->
-
-
-
-
-
-
-
-
-<!-- ########################################## 分割 ########################################## -->
-
-<!-- <div align="center" > -->
-
-  
-<!-- GitHub 奖杯🏆 -->
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=mingxin0607&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
-
-<!-- GitHub 数据统计 -->
-<!-- <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mingxin0607&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-<!-- <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mingxin0607&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br> -->
-
-
-
-<!-- </div> -->
-
-
-
-
-
-
 
